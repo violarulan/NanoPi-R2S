@@ -7,6 +7,7 @@
 * 管理 IP: 192.168.2.1
 * 默认管理密码: password
 
+
 ## 特色
 * 支持 RTL8821CU/RTL8822BU/RTL8812AU 芯片的 USB WiFi 设备，已知支持列表：
     - [COMFAST 726B](https://u.jd.com/ISyZWQh)
